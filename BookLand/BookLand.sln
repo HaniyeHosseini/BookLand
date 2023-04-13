@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookLand", "BookLand\BookLand.csproj", "{E575D167-5B7E-4646-880B-C913EFFF81D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{B37391AE-87D2-4B7E-8627-6FB1A304752A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{359BD9C4-5F94-4F5E-8DD1-627EEB71AC24}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C9FB4F8F-9D91-4927-B380-661CDCFBFDAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLand.Core", "BookLand.Core\BookLand.Core.csproj", "{6E4AF774-858C-435B-9C19-E577348F3A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLand.Domain", "BookLand.Domain\BookLand.Domain.csproj", "{D005C115-06B3-471D-BB8C-36696B297586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLand.Infra.IoC", "BookLand.Infra.IoC\BookLand.Infra.IoC.csproj", "{EEB3EDDC-D13F-448F-A2C6-A352DAB21C45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLand.Infra.Data", "BookLand.Infra.Data\BookLand.Infra.Data.csproj", "{A13D1FB4-37D0-4CED-B3FE-060FE16723DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E575D167-5B7E-4646-880B-C913EFFF81D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E575D167-5B7E-4646-880B-C913EFFF81D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E575D167-5B7E-4646-880B-C913EFFF81D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E575D167-5B7E-4646-880B-C913EFFF81D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4AF774-858C-435B-9C19-E577348F3A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4AF774-858C-435B-9C19-E577348F3A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4AF774-858C-435B-9C19-E577348F3A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4AF774-858C-435B-9C19-E577348F3A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D005C115-06B3-471D-BB8C-36696B297586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D005C115-06B3-471D-BB8C-36696B297586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D005C115-06B3-471D-BB8C-36696B297586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D005C115-06B3-471D-BB8C-36696B297586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEB3EDDC-D13F-448F-A2C6-A352DAB21C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB3EDDC-D13F-448F-A2C6-A352DAB21C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB3EDDC-D13F-448F-A2C6-A352DAB21C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB3EDDC-D13F-448F-A2C6-A352DAB21C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13D1FB4-37D0-4CED-B3FE-060FE16723DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13D1FB4-37D0-4CED-B3FE-060FE16723DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13D1FB4-37D0-4CED-B3FE-060FE16723DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13D1FB4-37D0-4CED-B3FE-060FE16723DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E4AF774-858C-435B-9C19-E577348F3A67} = {359BD9C4-5F94-4F5E-8DD1-627EEB71AC24}
+		{D005C115-06B3-471D-BB8C-36696B297586} = {B37391AE-87D2-4B7E-8627-6FB1A304752A}
+		{EEB3EDDC-D13F-448F-A2C6-A352DAB21C45} = {C9FB4F8F-9D91-4927-B380-661CDCFBFDAA}
+		{A13D1FB4-37D0-4CED-B3FE-060FE16723DB} = {C9FB4F8F-9D91-4927-B380-661CDCFBFDAA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0E700D7-5402-473D-A583-0F84D5B1F263}
+	EndGlobalSection
+EndGlobal

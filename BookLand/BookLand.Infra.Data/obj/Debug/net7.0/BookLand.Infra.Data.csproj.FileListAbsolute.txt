@@ -1,0 +1,12 @@
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\bin\Debug\net7.0\BookLand.Infra.Data.deps.json
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\bin\Debug\net7.0\BookLand.Infra.Data.dll
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\bin\Debug\net7.0\BookLand.Infra.Data.pdb
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\BookLand.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\BookLand.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\BookLand.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\BookLand.Infra.Data.AssemblyInfo.cs
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\BookLand.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\BookLand.Infra.Data.dll
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\refint\BookLand.Infra.Data.dll
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\BookLand.Infra.Data.pdb
+C:\Users\H.H\source\repos\BookLand\BookLand.Infra.Data\obj\Debug\net7.0\ref\BookLand.Infra.Data.dll

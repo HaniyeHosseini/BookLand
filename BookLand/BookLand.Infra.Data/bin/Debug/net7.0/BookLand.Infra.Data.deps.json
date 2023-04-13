@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BookLand.Infra.Data/1.0.0": {
+        "runtime": {
+          "BookLand.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookLand.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

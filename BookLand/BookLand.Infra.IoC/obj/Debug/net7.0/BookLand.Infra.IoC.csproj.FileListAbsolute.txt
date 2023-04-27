@@ -10,3 +10,15 @@ C:\Users\H.H\source\repos\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.
 C:\Users\H.H\source\repos\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\refint\BookLand.Infra.IoC.dll
 C:\Users\H.H\source\repos\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.pdb
 C:\Users\H.H\source\repos\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\ref\BookLand.Infra.IoC.dll
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\bin\Debug\net7.0\BookLand.Infra.IoC.deps.json
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\bin\Debug\net7.0\BookLand.Infra.IoC.dll
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\bin\Debug\net7.0\BookLand.Infra.IoC.pdb
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.AssemblyInfo.cs
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.dll
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\refint\BookLand.Infra.IoC.dll
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\BookLand.Infra.IoC.pdb
+C:\Users\H.H\source\repos\BookLandProject\BookLand\BookLand.Infra.IoC\obj\Debug\net7.0\ref\BookLand.Infra.IoC.dll
